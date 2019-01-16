@@ -105,6 +105,79 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCLJMTFR
 
+[Document5]
+DocumentPath=USBINFRTransiever.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for USBINFRTransiever\NC Drill\USBINFRTransiever-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for USBINFRTransiever\NC Drill\USBINFRTransiever-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for USBINFRTransiever\NC Drill\USBINFRTransiever.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for USBINFRTransiever\NC Drill\USBINFRTransiever.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for USBINFRTransiever\Gerber\USBINFRTransiever.RUL
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -570,7 +643,7 @@ Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Description=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=128|Description=148|Designator=81|Footprint=81|LibRef=81|Quantity=81
+Configuration1_Item6=Comment=128|Description=148|Designator=81|Footprint=81|Quantity=81|Part Number=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
