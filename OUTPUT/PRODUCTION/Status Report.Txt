@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [USBINFRTransiever.PcbDoc]
+   Generated File[USBINFRTransiever-RoundHoles.TXT]
+   Generated File[USBINFRTransiever-SlotHoles.TXT]
+   Generated File[USBINFRTransiever.LDP]
+   Generated File[USBINFRTransiever.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:20:59 PM On 8/1/2022

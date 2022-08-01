@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USBINFRTransiever.PcbDoc   8/1/2022  1:20:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Signal Layer to Bottom Signal Layer
+ASCII RoundHoles File : USBINFRTransiever-RoundHoles.TXT
+ASCII SlotHoles File : USBINFRTransiever-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             27        PTH        86.08mm (3.39inch)
+T2      0.4mm (16mil)                                             Round             6         PTH        26.86mm (1.06inch)
+T3      0.5mm (20mil)                                             Round             22        PTH        43.41mm (1.71inch)
+T4      0.6mm (24mil)                                             Slot              2         PTH        18.13mm (0.71inch)
+T5      0.65mm (26mil)                                            Slot              2         PTH        9.30mm (0.37inch)
+T6      0.889mm (35mil)                                           Round             6         PTH        21.00mm (0.83inch)
+T7      2.7mm (106mil)                                            Round             4         NPTH       123.00mm (4.84inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              69
+
+Total Processing Time (hh:mm:ss) : 00:00:00

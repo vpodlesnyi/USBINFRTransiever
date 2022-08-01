@@ -1,0 +1,17 @@
+DRC Rules Export File for PCB: D:\USBINFRTransiever\PCB\USBINFRTransiever.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_VccGnd_5|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_VccGnd_4|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_VccGnd_3|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_VccGnd_2|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_VccGnd_1|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_VccGnd|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=3,3Â|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=24Â|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=5Â|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_tracks_inner|Scope=Board|Minimum=13.78
+RuleKind=ShortCircuit|RuleName=ShortCircuit_ANALOG|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_VccANGnd|Scope=Board|Minimum=7.87
