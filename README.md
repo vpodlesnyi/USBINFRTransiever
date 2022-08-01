@@ -1,10 +1,10 @@
 # USBINFRTransiever
-Печатная плата инфракрасного передатчика.
+The PCB of an infrared UART transmitter with an amplitude modulated signal.
 
-Функционал изделия:
-- преобразователь USB-UART;
-- мультивибратор;
-- модуляция сигнала UART частотой 38 кГц от мультивибратора;
-- инфракрасная передача данных.
+Technical specifications:
+- USB-UART bridge;
+- multivibrator circuit;
+- UART signal modulation frequency 38 kHz from multivibrator;
+- infrared data transmission.
 
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/IrDa.PNG)
