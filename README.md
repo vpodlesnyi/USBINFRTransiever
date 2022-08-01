@@ -1,5 +1,5 @@
 # USBINFRTransiever
-The PCB of an infrared UART transmitter with an amplitude modulated signal.
+The PCB of an infrared USB-UART transmitter with an amplitude signal modulation.
 
 Technical specifications:
 - USB-UART bridge;
